@@ -1,0 +1,13 @@
+{
+  "name": "api-heroes",
+  "version": "1.0.0",
+  "description": "API HEROES",
+  "main": "server.js",
+  "author": "Alejandro Enríquez",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
